@@ -1,0 +1,11 @@
+/Users/hachtman/exercism/csharp/gigasecond/bin/Debug/netcoreapp1.0/Gigasecond.deps.json
+/Users/hachtman/exercism/csharp/gigasecond/bin/Debug/netcoreapp1.0/Gigasecond.runtimeconfig.json
+/Users/hachtman/exercism/csharp/gigasecond/bin/Debug/netcoreapp1.0/Gigasecond.runtimeconfig.dev.json
+/Users/hachtman/exercism/csharp/gigasecond/obj/Debug/netcoreapp1.0/Gigasecond.AssemblyInfo.cs
+/Users/hachtman/exercism/csharp/gigasecond/bin/Debug/netcoreapp1.0/xunit.runner.visualstudio.dotnetcore.testadapter.dll
+/Users/hachtman/exercism/csharp/gigasecond/bin/Debug/netcoreapp1.0/xunit.runner.utility.netstandard15.dll
+/Users/hachtman/exercism/csharp/gigasecond/bin/Debug/netcoreapp1.0/xunit.runner.reporters.netstandard15.dll
+/Users/hachtman/exercism/csharp/gigasecond/bin/Debug/netcoreapp1.0/Gigasecond.dll
+/Users/hachtman/exercism/csharp/gigasecond/bin/Debug/netcoreapp1.0/Gigasecond.pdb
+/Users/hachtman/exercism/csharp/gigasecond/obj/Debug/netcoreapp1.0/Gigasecond.dll
+/Users/hachtman/exercism/csharp/gigasecond/obj/Debug/netcoreapp1.0/Gigasecond.pdb
