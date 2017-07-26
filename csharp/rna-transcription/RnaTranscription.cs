@@ -6,7 +6,6 @@ public static class Complement
     public static string OfDna(string nucleotide)
     {
         char[] rnaArray = new char[nucleotide.Length];
-
         for (int i = 0; i < nucleotide.Length; i++)
         {
             if (nucleotide[i] == 'G')
@@ -25,7 +24,6 @@ public static class Complement
             {
                 rnaArray[i] = 'U';
             }
-            // rnaArray[i] = nucleotide[i].ToString();
         }
         return string.Join("", rnaArray);
     }
